@@ -1,0 +1,2 @@
+This will contain the list of scrips which would be used to generate information. 
+The scripts themselves would be in i folder and following the underlying philosophy of LinuxInfoBrowser, this list itself would be created by a script contained in the scripts folder.
