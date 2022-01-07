@@ -1,1 +1,1 @@
-InfBrw: This document contains the list of native packages used. This lost itself will be created by a script placed in the scripts folder
+InfBrw: This document contains the list of native packages used. This list itself will be created by a script placed in the scripts folder
