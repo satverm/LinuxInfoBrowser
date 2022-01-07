@@ -19,3 +19,4 @@ Generating this kind of information manually is probably impossible hence we can
 To take the concept further, is it possible to implement some kind of requirements in the kernel and the various Linux distributions such that this information can be generated automatically by just having a package or command.
 Implementing such a kind of system wide information has the potential of making the Linux more accessible to all.
 
+5 You may find lot of .org files. I have used these as the can be used in emacs orgmode for editing on the fly.
