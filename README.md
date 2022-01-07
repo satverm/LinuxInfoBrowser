@@ -2,7 +2,7 @@
 Know the Linux  and how it functions.
 
 1. This project is inspired from the emacs where everything is related and very well documented.
-The goal is to create a an info browser with an interface similar to a file manager.
+The goal is to create an info browser with an interface similar to a file manager.
 The file tree can be browsed either in a terminal or a gui.
 
 2. Selecting or hovering over any file will automatically provide the information on what is the role of the file.
