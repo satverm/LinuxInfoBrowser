@@ -1,1 +1,5 @@
 InfBrw: This is a scratch pad for making notes and anything which doesn't fit anywhere else.
+Steps we can follow to create a linux info browser:
+Create a strucuture of the fiel system which can be done in many ways like having a list or tuples of the structure or a dict where the information can be kept as the key value pair.
+One option which I can use is to use the system hierarchy code which I have created and create the directory structure and use a database to store the information in a file. This way I can have a better control on the structure and also make it more flexible for any changes.
+The update of information can be done using a tkinter gui which can also act as the info browser for x window/gui.
